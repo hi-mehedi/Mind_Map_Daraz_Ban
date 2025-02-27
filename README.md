@@ -15,3 +15,6 @@ In **Software Quality Assurance (SQA)**, mind maps play a crucial role in test p
 
 # Mindmap Report
 ![Daraz](https://github.com/user-attachments/assets/d9b1ca3e-b221-4688-b738-bed28e8d75be)
+
+## Author
+**Mehedi Hasan Soumik**
